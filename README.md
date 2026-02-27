@@ -1,8 +1,7 @@
 # Project Portfolio
 
 * **Workout Tracker Application ([GitHub](https://github.com/Renxkaa/allproject/tree/main/workout-tracker) | [Demo](https://drive.google.com/file/d/1OGKFS-3z8Pz7DDzpCGa5QnFxLeKTLZmC/view?usp=sharing)):** Developed a fitness app with full CRUD functionality and modular architecture to ensure a smooth and intuitive user experience.
-*  ** Cart Management System (Node.js + Express + Redis) ([GitHub](https://github.com/Renxkaa/allproject/tree/main/cart_management) | [Demo](https://drive.google.com/file/d/1HDhcSihuXx0DRueF3rKRbKhJeKffhcUu/view?usp=sharing)): **Created a backend for an e-commerce cart using Node.js. Used Redis for session management,      
-        which made the system respond faster.
+* **Cart Management System (Node.js + Redis) ([GitHub](https://github.com/Renxkaa/allproject/tree/main/cart_management) | [Demo](https://drive.google.com/file/d/1HDhcSihuXx0DRueF3rKRbKhJeKffhcUu/view?usp=sharing)):** Developed a backend for an e-commerce cart using Node.js and Redis for session management to optimize system response time.
 ---
 
 # Diary App (Flutter + Firebase)
@@ -298,6 +297,7 @@ src/
 ---
 
  Developed for educational and portfolio purposes.
+
 
 
 
