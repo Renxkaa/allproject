@@ -1,5 +1,6 @@
 # Project Portfolio
 
+* **Workout Tracker Application ([GitHub](https://github.com/Renxkaa/allproject/tree/main/workout-tracker) | [Demo](https://drive.google.com/file/d/1OGKFS-3z8Pz7DDzpCGa5QnFxLeKTLZmC/view?usp=sharing)):** Developed a fitness app with full CRUD functionality and modular architecture to ensure a smooth and intuitive user experience.
 ---
 
 # Diary App (Flutter + Firebase)
@@ -295,3 +296,4 @@ src/
 ---
 
  Developed for educational and portfolio purposes.
+
